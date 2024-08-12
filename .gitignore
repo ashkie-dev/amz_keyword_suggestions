@@ -1,0 +1,12 @@
+# ignore notebooks
+notebooks/
+
+# ignore environment variables
+.envs
+.envs/
+
+# ignore temporary files
+temp/
+
+# ignore macos hidden files
+.DS_Store
